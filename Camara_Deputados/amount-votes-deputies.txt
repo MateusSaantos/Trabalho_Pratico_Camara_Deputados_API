@@ -1,0 +1,507 @@
+José Rocha 25
+Vavá Martins 22
+Paula Belmonte 27
+Silas Câmara 25
+Pastor Eurico 27
+Professor Israel Batista 29
+Tiago Dimas 26
+Luizão Goulart 21
+Maurício Dziedricki 28
+Mário Negromonte Jr. 28
+Zé Silva 30
+Eli Borges 25
+Marcelo Aro 9
+Capitão Derrite 4
+Mauro Nazif 30
+Hildo Rocha 28
+Raimundo Costa 27
+Uldurico Junior 17
+Aelton Freitas 25
+Professor Alcides 26
+José Nelto 19
+Alcides Rodrigues 29
+Ricardo Guidi 25
+Otoni de Paula 13
+Pastor Gil 22
+Vaidon Oliveira 19
+Alê Silva 20
+Júnior Mano 15
+Samuel Moreira 23
+Ricardo Teobaldo 24
+Perpétua Almeida 29
+Márcio Biolchi 28
+Tereza Cristina 29
+Pedro Westphalen 28
+Geninho Zuliani 7
+Igor Kannário 7
+Pedro Lupion 11
+Vitor Lippi 26
+Lourival Gomes 23
+Kim Kataguiri 26
+Capitão Fábio Abreu 29
+Celso Maldaner 18
+Helder Salomão 29
+Fernanda Melchionna 29
+Diego Andrade 22
+Carmen Zanotto 24
+Claudio Cajado 26
+Dimas Fabiano 22
+Tadeu Alencar 27
+Carlos Zarattini 29
+Luisa Canziani 18
+Isnaldo Bulhões Jr. 12
+André Fufuca 14
+Felipe Rigoni 24
+Rose Modesto 28
+José Nunes 27
+André Janones 26
+Lucas Vergilio 11
+Heitor Schuch 25
+João Roma 24
+Ronaldo Carletto 27
+Gelson Azevedo 30
+Célio Silveira 26
+Juninho do Pneu 30
+Wellington Roberto 17
+Marlon Santos 9
+Celso Sabino 20
+Milton Vieira 27
+Sérgio Brito 24
+Gustinho Ribeiro 30
+Luiz Antônio Corrêa 30
+Greyce Elias 27
+Márcio Jerry 29
+Pedro Augusto Bezerra 24
+Major Vitor Hugo 30
+Marina Santos 25
+Pedro Lucas Fernandes 27
+Professora Dayane Pimentel 11
+Geovania de Sá 16
+Márcio Labre 25
+Heitor Freire 24
+Augusto Coutinho 29
+Herculano Passos 26
+Mário Heringer 23
+Pedro Vilela 25
+Adolfo Viana 13
+João Daniel 27
+Hiran Gonçalves 20
+Gurgel 25
+Iracema Portella 17
+Alceu Moreira 23
+Diego Garcia 28
+Dr. Luiz Ovando 27
+Paulo Azi 18
+Ricardo Silva 12
+Coronel Tadeu 30
+Neri Geller 23
+Mariana Carvalho 24
+Leonardo Monteiro 28
+Nilson Pinto 26
+Subtenente Gonzaga 25
+Juscelino Filho 25
+Gonzaga Patriota 29
+Onyx Lorenzoni 23
+Hermes Parcianello 27
+Baleia Rossi 25
+Orlando Silva 30
+Osires Damaso 25
+Daniel Trzeciak 28
+Daniel Almeida 28
+João Marcelo Souza 22
+Fábio Mitidieri 15
+Josias Gomes 23
+Lídice da Mata 27
+Pedro Cunha Lima 29
+Dr. Frederico 25
+Moses Rodrigues 28
+Vanderlei Macris 27
+Milton Coelho 25
+Gilson Marques 30
+Lucio Mosquini 13
+Aguinaldo Ribeiro 19
+Paulo Abi-Ackel 21
+Dra. Vanda Milani 18
+Capitão Wagner 22
+Edio Lopes 26
+Acácio Favacho 22
+Giacobo 25
+Rafael Motta 25
+Shéridan 21
+Coronel Chrisóstomo 29
+Vinicius Poit 28
+Fernando Coelho Filho 20
+Danrlei de Deus Hinterholz 27
+Fausto Pinato 27
+Delegado Waldir 19
+Fábio Trad 26
+Jhonatan de Jesus 20
+João Maia 29
+Waldenor Pereira 23
+Luiz Carlos Motta 27
+AJ Albuquerque 27
+Luiz Carlos 17
+Júnior Ferrari 18
+Reginaldo Lopes 21
+Danilo Forte 21
+Padre João 28
+Eros Biondini 28
+Daniel Coelho 19
+Vinicius Farah 19
+Delegado Pablo 14
+Patrus Ananias 30
+Marco Bertaiolli 29
+Luciano Bivar 11
+Fernando Monteiro 28
+Clarissa Garotinho 22
+Beto Rosado 28
+João Carlos Bacelar 25
+Pinheirinho 16
+Joseildo Ramos 24
+Guilherme Mussi 9
+Delegado Éder Mauro 25
+Ricardo Barros 17
+João Campos 27
+Giovani Feltes 25
+Chiquinho Brazão 28
+Carlos Bezerra 29
+Dr. Leonardo 30
+Benes Leocádio 28
+Pompeo de Mattos 28
+Airton Faleiro 28
+Bozzella 22
+Osmar Serraglio 26
+Luis Miranda 25
+Cássio Andrade 24
+Joaquim Passarinho 30
+Alex Santana 22
+Júlio Cesar 23
+Aécio Neves 19
+Cristiano Vale 14
+Cleber Verde 24
+Abou Anni 29
+Zé Neto 29
+Aureo Ribeiro 23
+Tito 30
+Zé Carlos 30
+Marcos Aurélio Sampaio 26
+Dagoberto Nogueira 29
+Gleisi Hoffmann 17
+Neucimar Fraga 23
+Fábio Ramalho 22
+Emidinho Madeira 26
+Félix Mendonça Júnior 27
+Lucas Redecker 26
+Flávia Morais 25
+Chris Tonietto 29
+Eduardo Costa 26
+Vinicius Carvalho 12
+Arthur Oliveira Maia 28
+Jose Mario Schreiner 26
+Liziane Bayer 30
+Sergio Souza 26
+Bacelar 29
+Luiza Erundina 19
+Arnaldo Jardim 22
+Rosana Valle 26
+Paulo Eduardo Martins 26
+Paulo Guedes 29
+Delegado Marcelo Freitas 30
+Leandre 21
+Emanuel Pinheiro Neto 29
+Afonso Hamm 25
+Paulo Pimenta 30
+Glaustin da Fokus 27
+Edna Henrique 29
+Lauriete 30
+Alexis Fonteyne 29
+Darci de Matos 24
+Daniela do Waguinho 30
+Flávia Arruda 19
+Marília Arraes 29
+Olival Marques 27
+Hercílio Coelho Diniz 26
+Ossesio Silva 29
+Alan Rick 27
+Professor Joziel 26
+Delegado Antônio Furtado 25
+Henrique Fontana 27
+Guiga Peixoto 30
+Luiz Philippe de Orleans e Bragança 26
+Elmar Nascimento 10
+Aluisio Mendes 28
+Da Vitória 26
+Vilson da Fetaemg 27
+Pr. Marco Feliciano 30
+Zé Vitor 18
+Leur Lomanto Júnior 26
+Jesus Sérgio 30
+Nivaldo Albuquerque 25
+Túlio Gadêlha 30
+Professora Dorinha Seabra Rezende 26
+Enrico Misasi 28
+Paulo Foletto 25
+Major Fabiana 27
+Marcelo Nilo 30
+Eduardo Cury 28
+Leda Sadala 27
+Josimar Maranhãozinho 10
+Stefano Aguiar 27
+Tabata Amaral 30
+Wilson Santiago 19
+Magda Mofatto 26
+Loester Trutis 27
+Márcio Marinho 26
+Carlos Gomes 29
+José Airton Félix Cirilo 29
+Dr. Jaziel 30
+Bohn Gass 30
+André Abdon 23
+Josivaldo JP 29
+Marreca Filho 23
+Maria do Rosário 30
+Raul Henry 27
+Professora Marcivania 30
+Célio Studart 20
+Alexandre Padilha 29
+Cezinha de Madureira 28
+Júlio Delgado 28
+Damião Feliciano 24
+Rodrigo de Castro 28
+Luis Tibé 27
+Sargento Fahur 30
+Severino Pessoa 15
+Professora Rosa Neide 29
+Joenia Wapichana 29
+Fred Costa 15
+Marcelo Calero 30
+Arlindo Chinaglia 30
+Odair Cunha 30
+Luiz Nishimori 27
+Felipe Francischini 29
+Carlos Chiodini 23
+Beto Pereira 27
+Alessandro Molon 19
+Marcon 26
+Flávio Nogueira 30
+Caroline de Toni 30
+Aliel Machado 24
+Doutor Luizinho 16
+Benedita da Silva 30
+Otto Alencar Filho 26
+Rodrigo Coelho 29
+Rubens Bueno 28
+Rogério Peninha Mendonça 10
+Daniel Silveira 30
+Valmir Assunção 28
+Altineu Côrtes 17
+Laercio Oliveira 28
+Capitão Augusto 13
+Weliton Prado 25
+Giovani Cherini 29
+Natália Bonavides 30
+Igor Timo 23
+Luciano Ducci 30
+Francisco Jr. 29
+Bibo Nunes 29
+Aline Sleutjes 30
+Helio Lopes 23
+Danilo Cabral 29
+Hugo Leal 28
+Fabio Schiochet 28
+Alexandre Frota 29
+Gustavo Fruet 24
+Glauber Braga 25
+Jerônimo Goergen 20
+José Ricardo 26
+Rogério Correia 27
+Paulo Bengtson 8
+Marcelo Moraes 20
+Jorge Solla 28
+Rosangela Gomes 26
+Carlos Sampaio 27
+Dra. Soraya Manato 30
+Nelson Barbudo 26
+Silvio Costa Filho 27
+Luizianne Lins 30
+Soraya Santos 20
+Patricia Ferraz 30
+Ottaci Nascimento 16
+Antonio Brito 22
+Zeca Dirceu 27
+Ruy Carneiro 26
+Aroldo Martins 25
+General Girão 30
+Fabio Reis 28
+Lucas Gonzalez 29
+Jones Moura 27
+Mara Rocha 30
+Adriana Ventura 26
+Elcione Barbalho 27
+Afonso Florence 26
+Sandro Alex 28
+Denis Bezerra 26
+Ivan Valente 26
+Vander Loubet 29
+Ricardo da Karol 29
+Gervásio Maia 30
+General Peternelli 30
+Joice Hasselmann 18
+Marcelo Ramos 25
+Léo Moraes 25
+Lafayette de Andrada 26
+Franco Cartafina 28
+Bilac Pinto 19
+Leônidas Cristino 26
+Eduardo Barbosa 28
+Eduardo da Fonte 29
+Genecias Noronha 23
+Bosco Saraiva 17
+Jaqueline Cassol 26
+Nilto Tatto 29
+Rubens Otoni 25
+Leo de Brito 29
+Tereza Nelma 24
+Eduardo Bismarck 30
+Flaviano Melo 28
+Márcio Macêdo 26
+Miguel Lombardi 30
+Jorge Braz 28
+Felipe Carreras 28
+Carlos Jordy 30
+Sóstenes Cavalcante 26
+Elias Vaz 29
+Marx Beltrão 23
+Misael Varella 21
+Edilázio Júnior 24
+Juarez Costa 29
+Vicentinho 29
+Rejane Dias 29
+Toninho Wandscheer 29
+Julian Lemos 27
+Haroldo Cathedral 28
+Vivi Reis 30
+Paulo Teixeira 25
+Celina Leão 21
+Alex Manente 14
+Euclydes Pettersen 7
+Pastor Sargento Isidório 30
+Chico D`Angelo 27
+Roberto Alves 30
+Paulão 28
+Newton Cardoso Jr 26
+Bia Kicis 29
+José Medeiros 25
+Felício Laterça 23
+Alice Portugal 29
+Arthur Lira 12
+Daniel Freitas 30
+Julio Cesar Ribeiro 27
+Merlong Solano 30
+Hélio Costa 30
+Nereu Crispim 29
+Osmar Terra 26
+Frei Anastacio Ribeiro 26
+Nicoletti 30
+Átila Lins 28
+Beto Faro 29
+Mauro Benevides Filho 30
+Marcos Pereira 18
+Policial Katia Sastre 28
+Paulo Ramos 24
+Expedito Netto 29
+Dr. Zacharias Calil 30
+Rui Falcão 29
+Angela Amin 29
+Paulo Freire Costa 30
+Sebastião Oliveira 23
+Robério Monteiro 27
+Maria Rosas 30
+Dulce Miranda 29
+Junio Amaral 30
+André de Paula 27
+André Figueiredo 28
+Hugo Motta 29
+Afonso Motta 26
+Camilo Capiberibe 28
+Carla Dickson 30
+Domingos Neto 20
+Amaro Neto 30
+Célio Moura 26
+Carlos Henrique Gaguim 29
+Carlos Veras 29
+Pedro Augusto Palareti 26
+Christino Aureo 27
+Enio Verri 29
+Efraim Filho 17
+Paulinho da Força 24
+Marcelo Freixo 29
+Bosco Costa 28
+Covatti Filho 26
+Silvia Cristina 30
+Gutemberg Reis 27
+Hélio Leite 29
+Aline Gurgel 22
+Charles Fernandes 30
+Capitão Alberto Neto 28
+Jefferson Campos 29
+José Guimarães 29
+David Soares 22
+Fábio Henrique 26
+Átila Lira 28
+Wolney Queiroz 29
+Filipe Barros 23
+Talíria Petrone 23
+Eduardo Bolsonaro 30
+Vicentinho Júnior 26
+Marcelo Álvaro Antônio 21
+Carla Zambelli 30
+Idilvan Alencar 30
+Marcel van Hattem 30
+Eli Corrêa Filho 29
+Walter Alves 20
+Luiz Lima 30
+Gilberto Abramo 29
+Alencar Santana 22
+Domingos Sávio 30
+Christiane de Souza Yared 26
+Rodrigo Agostinho 30
+Evair Vieira de Melo 24
+Paulo Ganime 30
+Bira do Pindaré 27
+Cacá Leão 24
+Pedro Paulo 23
+Adriano do Baldy 30
+Gil Cutrim 25
+Renildo Calheiros 25
+Rodrigo Maia 20
+Áurea Carolina 21
+Sidney Leite 28
+Pedro Uczai 30
+Erika Kokay 30
+Sâmia Bomfim 24
+André Ferreira 21
+Tiago Mitraud 30
+Margarete Coelho 28
+Jandira Feghali 30
+Sanderson 30
+Rubens Pereira Júnior 29
+Gilberto Nascimento 4
+Charlles Evangelista 15
+Mauro Lopes 23
+Abílio Santana 21
+Roberto de Lucena 23
+Celso Russomanno 25
+Marcio Alvino 28
+Coronel Armando 27
+José Priante 22
+Bruna Furlan 21
+Rossoni 8
+Renata Abreu 27
+Junior Lourenço 9
+Alexandre Leite 17
+Ney Leprevost 15
+Vermelho 12
+Lincoln Portela 11
+Tiririca 8
+Ricardo Izar 2
